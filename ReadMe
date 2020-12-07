@@ -7,7 +7,7 @@ and members of the webpage.
 Prerequisites:
 Either ANdroid studio emulator should be installed in the system or real mobile should be connected to the system.
 need to provide the Valid Amazon credentials Email & Password
-This test is created & executed in real mobile device.
+This test has been created & executed in real mobile device.
 
 Installing: 
 Eclipse should be installed  in the system.
@@ -17,8 +17,8 @@ All other necessary dependencies will be internally handled or imported through 
 
 Running the Test:
 Import the Project into eclipse
-Run the pom.xml file
-Get the output index.html in test-output folder.
+Run the Test
+Get the output in index.html in test-output folder.
 
 
 
