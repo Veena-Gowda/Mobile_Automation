@@ -5,7 +5,7 @@ Created hybrid framework using page object model, maintained a separate class fo
 and members of the webpage.
 
 Prerequisites:
-Either ANdroid studio emulator should be installed in the system or real mobile should be connected to the system.
+Android studio emulator should be installed in the system or real mobile should be connected to the system.
 need to provide the Valid Amazon credentials Email & Password
 This test has been created & executed in real mobile device.
 
