@@ -18,7 +18,7 @@ All other necessary dependencies will be internally handled or imported through 
 Running the Test:
 Import the Project into eclipse
 Run the pom.xml file
-Get the output index.html in test-output folder.
+Get the result index.html in test-output folder.
 
 
 
